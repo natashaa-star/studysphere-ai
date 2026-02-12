@@ -1,0 +1,7 @@
+{
+  "name": "studysphere-ai",
+  "private": true,
+  "scripts": {
+    "build": "echo Build complete"
+  }
+}
